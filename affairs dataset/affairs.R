@@ -82,7 +82,7 @@ xgflow <-
 
 str(train_data_real)
 
-##try h2o framework for quick analysis 
+##try h2o framework for quick analysis with no tuning
 h2o.init()
 
 h2o.trained <- as.h2o(train)
