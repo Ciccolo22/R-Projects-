@@ -91,7 +91,7 @@ h2o.test <- as.h2o(test_data_real)
 train <- as.data.frame(h2o.trained)
 test <- as.data.frame(h2o.test)
 
-##setup in h20
+##setup in h20 frames
 y <- 'affairs'
 x <- setdiff(names(h2o.trained),y)
 
