@@ -5,8 +5,8 @@ Quick and dirty analyses in R ecosystem to explore various ML frameworks
 
 ##affairs.r file demos the correlationfunnel package, h2o automl and the modelstudio package. Not great models, but with some feature engineering and tweaks, who knows...
 
-##clutesr.r file - basic cluster analysis on CAschools dataset from applied econometrics r package. also performed PCA analysis to understand latent dimensions of the dataset. Two components capture+80% of the variation in the data
+##cluster.r file and associated ipynb notebook - basic cluster analysis on CAschools dataset from applied econometrics r package. also performed PCA analysis to understand latent dimensions of the dataset. Two components capture+80% of the variation in the data
 
-##news.r file used to demo the newsanchor r package, which is used to scrape articles from popular media publications. I scraped some articles about trump and then performed some basic sentiment analysis
+##news.r file used to demo the newsanchor r package, which is used to scrape articles from popular media publications. I scraped  articles about D.trump and then performed some basic text mining
 
 
