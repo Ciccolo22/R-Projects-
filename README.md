@@ -11,3 +11,4 @@ Quick and dirty analyses in R ecosystem to explore various ML frameworks
 
 ##virginiacovid.r file reflects some basic EDA on data obtained from NYT. Carried out this analysis in Q2 of 2020 when COVID cases/deaths rapidly increased
 
+##visreg_eda used to demo visreg package in r and explore visual relationships between explanatory variables and target variable.. conditional plots make it east to discern associated relationships
