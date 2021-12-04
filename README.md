@@ -13,5 +13,5 @@ Quick and dirty analyses in R ecosystem to explore various ML frameworks
 
 ##visreg_eda used to demo visreg package in r and explore visual relationships between explanatory variables and target variable.. conditional plots make it east to discern associated relationships
 
-##RMD file stores a basic web app I've been tinkering with... Nothing production ready, more experimenting with Flexdashboard and Shiny Frameworks.... Exploratory Linear Regression app using jtools and visreg can be found http://ciccolo22.shinyapps.io/mtnew.. Still much to learn with FlexDashboard and Shiny, but glad I could get this up running.
+##RMD file stores a basic web app I've been tinkering with... Nothing production ready, more experimenting with Flexdashboard and Shiny Frameworks.... Exploratory Linear Regression app using jtools and visreg can be found  https://ciccolo22.shinyapps.io/mtcarstry2/.. Still much to learn with FlexDashboard and Shiny, but glad I could get this up running.
  
