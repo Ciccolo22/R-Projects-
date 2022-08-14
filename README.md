@@ -1,11 +1,11 @@
 ## R Hobbyist Repo to demo various packages and tools
 Quick and dirty analyses in R ecosystem to explore various R packages and ML frameworks
 
-##### UFO.R file reflects some simple EDA and a time series analysis of UFO reportings over time. I employed the modeltime package to execute numerous forecasting methods - it really is an easy to use and flexible package.
+##### ufos_forecasting.R file reflects some simple EDA and a time series analysis of UFO reportings over time. I employed the modeltime package to execute numerous forecasting methods - it really is an easy to use and flexible package.
 
 ##### affairs.R file demos the correlationfunnel package, h2o automl and the modelstudio package. Not great models, but with some feature engineering and tweaks, who knows...
 
-##### cluster.R file and associated ipynb notebook - basic cluster analysis on CAschools dataset from applied econometrics r package. also performed PCA analysis to understand latent dimensions of the dataset. Two components capture+80% of the variation in the data
+##### clusternew.R file and associated ipynb notebook - basic cluster analysis on CAschools dataset from applied econometrics r package. also performed PCA analysis to understand latent dimensions of the dataset. Two components capture+80% of the variation in the data
 
 ##### news2.R file used to demo the newsanchor r package, which is used to scrape articles from popular media publications. I scraped  articles about D.trump and then performed some basic text mining
 
