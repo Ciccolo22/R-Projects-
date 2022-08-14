@@ -7,7 +7,7 @@ Quick and dirty analyses in R ecosystem to explore various R packages and ML fra
 
 ##### cluster.R file and associated ipynb notebook - basic cluster analysis on CAschools dataset from applied econometrics r package. also performed PCA analysis to understand latent dimensions of the dataset. Two components capture+80% of the variation in the data
 
-##### news.R file used to demo the newsanchor r package, which is used to scrape articles from popular media publications. I scraped  articles about D.trump and then performed some basic text mining
+##### news2.R file used to demo the newsanchor r package, which is used to scrape articles from popular media publications. I scraped  articles about D.trump and then performed some basic text mining
 
 ##### virginiacovid.R file reflects some basic EDA on data obtained from NYT. Carried out this analysis in Q2 of 2020 when COVID cases/deaths rapidly increased
 
